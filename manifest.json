@@ -1,0 +1,10 @@
+{
+  "name": "HSE Management System",
+  "short_name": "HSE System",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#0f172a",
+  "description": "HSE Management System MVP",
+  "icons": []
+}
